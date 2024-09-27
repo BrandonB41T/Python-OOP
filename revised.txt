@@ -1,0 +1,32 @@
+# materials
+
+money
+cars
+houses
+
+# states of water
+
+liquid
+gas
+solid
+
+# greetings
+
+hey
+hello
+
+
+
+
+
+
+
+
+
+
+
+
+#I guess it's ok
+
+
+#Puppy trainers are cool
